@@ -9,6 +9,7 @@ conti-domain-parser.py - reads a list of the Conti domain names (minus '.com') a
 conti-domain-writer.py - a POC based on the regex assumptions in the domain parser script. Based on the output so far, I don't think this is exactly right, though it's possible the actors grab the most realistic words from a large dump of something like this script's outputs.
 
 Example domain writer outputs:
+
 mebezim.com
 kosabih.com
 katajog.com
